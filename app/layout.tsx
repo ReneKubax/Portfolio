@@ -1,5 +1,8 @@
-import Navbar from '../../components/Navbar'
-import './globals.css'
+"use client"
+import Navbar from '@/components/Navbar'
+import '@/styles/globals.css'
+
+import { ThemeProvider } from 'next-themes'
 
 
 export const metadata = {
@@ -15,8 +18,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
+        <ThemeProvider enableSystem={true} attribute='class'>
         <Navbar/>
         {children}
+        </ThemeProvider>
         </body>
     </html>
   )
