@@ -6,7 +6,7 @@ Build locally:
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/ReneKubax/Backend-Ecommerce
+git clone https://github.com/ReneKubax/Portfolio
 ```
 
 **2. Install Dependencies**
