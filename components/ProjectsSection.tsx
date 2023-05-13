@@ -6,12 +6,12 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Bookbuddy chat - a full-stack customer support chatbot with Next JS",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
+      "Real-time streamed chatbot responses, Optimistic updates for the best UX, Secured, rate-limited API routes to prevent abuse, Built with TypeScript, TailwindCSS, Icons from Lucide, Class merging with tailwind-merge, Conditional classes with clsx ",
     image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+    github: "https://github.com/ReneKubax/Chatbot",
+    link: "https://chatbotia-renekubax.netlify.app",
   },
   {
     name: "PlatoIO",
