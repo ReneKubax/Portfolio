@@ -9,7 +9,7 @@ const projects = [
     name: "Bookbuddy chat - a full-stack customer support chatbot with Next JS",
     description:
       "Real-time streamed chatbot responses, Optimistic updates for the best UX, Secured, rate-limited API routes to prevent abuse, Built with TypeScript, TailwindCSS, Icons from Lucide, Class merging with tailwind-merge, Conditional classes with clsx ",
-    image: "/thankfulthoughts.png",
+    image: "/chatbot.PNG",
     github: "https://github.com/ReneKubax/Chatbot",
     link: "https://chatbotia-renekubax.netlify.app",
   },
