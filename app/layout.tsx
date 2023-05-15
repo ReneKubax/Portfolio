@@ -1,4 +1,5 @@
 "use client"
+import Footer from '@/components/Fotter'
 import Navbar from '@/components/Navbar'
 import '@/styles/globals.css'
 
@@ -21,6 +22,7 @@ export default function RootLayout({
         <ThemeProvider enableSystem={true} attribute='class'>
         <Navbar/>
         {children}
+        <Footer />
         </ThemeProvider>
         </body>
     </html>
