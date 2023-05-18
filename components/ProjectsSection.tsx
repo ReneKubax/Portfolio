@@ -14,11 +14,11 @@ const projects = [
     link: "https://chatbotia-renekubax.netlify.app",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
-    image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    name: "Twitter clone - This is a FullStack with NextJs",
+    description: " I built with T3 Stack like backend and NextJs, TailwindCss, TypeScript, I used Next Auth, Discord Verification to do the Login.",
+    image: "/twitter.png",
+    github: "https://github.com/ReneKubax/twitter-clone",
+    link: "https://twitter-clone-v2-kohl.vercel.app/",
   },
   {
     name: "Kator Family Photos",
