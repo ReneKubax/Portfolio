@@ -14,7 +14,7 @@ const projects = [
     link: "https://chatbotia-renekubax.netlify.app",
   },
   {
-    name: "Twitter clone - This is a FullStack with NextJs",
+    name: "Twitter clone - This is a FullStack App with NextJs",
     description: " I built with T3 Stack like backend and NextJs, TailwindCss, TypeScript, I used Next Auth, Discord Verification to do the Login.",
     image: "/twitter.png",
     github: "https://github.com/ReneKubax/twitter-clone",
