@@ -21,12 +21,12 @@ const projects = [
     link: "https://twitter-clone-v2-kohl.vercel.app/",
   },
   {
-    name: "Kator Family Photos",
+    name: "Tesla Landing Page",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+      "Clone of Tesla Landing page with Astro and TailwindCSS",
+    image: "/tesla.png",
+    github: "https://github.com/ReneKubax/Clone-Tesla-Landing",
+    link: "https://clone-tesla-landing.vercel.app/",
   },
 ]
 
